@@ -1,0 +1,6 @@
+npm init
+npm install --save-dev webpack webpack-cli webpack
+npm install --save-dev babel
+
+npm install @babel/plugin-transform-react-jsx --save-dev
+npx webpack
